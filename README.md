@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./github_banner.png)
 
 ### 👋 Hello, I'm Rakiful Islam Joy  
 #### 💻 MERN Stack Developer | 🎓 Diploma in Computer Science & Technology
