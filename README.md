@@ -43,7 +43,5 @@ Currently pursuing my Diploma at **National Polytechnic College** and a proud gr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rakiful&theme=radical&border_radius=5)
 
-![Metrics](https://github-metrics.vercel.app/api?username=Rakiful&theme=radical)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakiful&theme=react-dark&hide_border=true)
 
